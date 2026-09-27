@@ -10,8 +10,7 @@ label (league), or simply when asked again?
 **Design.** 147 anonymised player-seasons (≥ 900 minutes) from 1,517 matches of the 2015/16 La Liga,
 Premier League, Serie A and Ligue 1 (StatsBomb open data), described by 13 per-90 metrics with
 positional percentiles. Four models (Claude Sonnet 4.5, GPT-5, Gemini 2.5 Pro, DeepSeek V3.1) evaluated
-every profile under 12 conditions that change only one line of text: no label (five repeats), six
-nationalities and five leagues. 9,408 structured responses.
+every profile under 12 conditions that change only one line of text: no label (five repeats), six nationality labels and five league labels. 9,408 structured responses.
 
 **Headline results.**
 - With identical statistics, all four models cut the estimated value of a player labelled Nigerian
@@ -20,7 +19,7 @@ nationalities and five leagues. 9,408 structured responses.
 - In every model, changing the league label from "Segunda División" to "Premier League" moves the
   estimated value more (4.4–9.5×) than moving the player from the bottom to the top performance
   tercile (3.4–7.2×).
-- Asked about the same profile five times, the models change their recommendation in 8% to 34% of
+- Asked about the same profile five times, the models change their recommendation in 7% to 34% of
   cases and move the value by a median factor of up to 1.9.
 
 See `results/summary.md` for every table and `abstract/` for the submitted abstract.
