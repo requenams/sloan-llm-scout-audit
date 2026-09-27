@@ -1,0 +1,148 @@
+profile_id,player_id,player,team,competition,season,pos_group,minutes,level,tercile
+P001,10609,Jérémy Mathieu,Barcelona,La Liga,2015/2016,CB,1308.0,57.84615384615385,high
+P002,6969,Juan Guilherme Nunes Jesus,Inter Milan,Serie A,2015/2016,CB,1475.0,63.38461538461539,high
+P003,2980,Kévin Bérigaud,Montpellier,Ligue 1,2015/2016,W,1070.0,31.692307692307693,low
+P004,9626,Tommy Elphick,AFC Bournemouth,Premier League,2015/2016,CB,1064.0,36.23076923076923,low
+P005,2993,Stéphane Darbion,Troyes,Ligue 1,2015/2016,W,1620.0,50.69230769230769,mid
+P006,3471,Dejan Lovren,Liverpool,Premier League,2015/2016,CB,1986.0,66.61538461538461,high
+P007,3064,David Josué Jiménez Silva,Manchester City,Premier League,2015/2016,AM,1831.0,66.07692307692308,high
+P008,3518,Leighton Baines,Everton,Premier League,2015/2016,FB,1553.0,52.0,mid
+P009,6038,John Guidetti,Celta Vigo,La Liga,2015/2016,FW,1330.0,51.0,mid
+P010,15893,Víctor Rodríguez Romero,Getafe,La Liga,2015/2016,AM,2364.0,43.38461538461539,low
+P011,5504,Éver Maximiliano David Banega,Sevilla,La Liga,2015/2016,AM,1764.0,63.69230769230769,high
+P012,6751,Javier Fuego Martínez,Valencia,La Liga,2015/2016,DM,2108.0,41.84615384615385,low
+P013,3610,Roque Mesa Quevedo,Las Palmas,La Liga,2015/2016,DM,2883.0,57.30769230769231,high
+P014,7026,Giacomo Bonaventura,AC Milan,Serie A,2015/2016,CM,2949.0,67.07692307692308,high
+P015,5589,Sergej Milinković-Savić,Lazio,Serie A,2015/2016,CM,1706.0,60.15384615384615,high
+P016,3662,Danny Drinkwater,Leicester City,Premier League,2015/2016,CM,3152.0,53.69230769230769,mid
+P017,11012,Jonathan Grant Evans,West Bromwich Albion,Premier League,2015/2016,CB,2703.0,61.23076923076923,high
+P018,4629,José Ramiro Funes Mori,Everton,Premier League,2015/2016,CB,2306.0,71.76923076923077,high
+P019,40250,Marco Zambelli,Empoli,Serie A,2015/2016,FB,1304.0,26.0,low
+P020,3449,Wayne Routledge,Swansea City,Premier League,2015/2016,W,1718.0,31.153846153846153,low
+P021,26690,Alberto Mateus Contreiras Gonçalves,Rayo Vallecano,La Liga,2015/2016,FW,1032.0,40.69230769230769,low
+P022,6561,Luis Hernández Rodríguez,Sporting Gijón,La Liga,2015/2016,CB,3331.0,46.61538461538461,mid
+P023,6707,Charles Días Barbosa de Oliveira,Málaga,La Liga,2015/2016,FW,3092.0,42.76923076923077,low
+P024,43081,Almen Abdi,Watford,Premier League,2015/2016,CM,2028.0,54.69230769230769,mid
+P025,3501,Philippe Coutinho Correia,Liverpool,Premier League,2015/2016,W,2051.0,73.15384615384616,high
+P026,6841,Víctor Machín Pérez,Sevilla,La Liga,2015/2016,W,2117.0,59.92307692307692,high
+P027,11634,Cristiano Piccini,Real Betis,La Liga,2015/2016,FB,1467.0,69.0,high
+P028,15415,Matteo Mancosu,Carpi,Serie A,2015/2016,FW,954.0,32.92307692307692,low
+P029,49337,Josip Stanišić,Bayer Leverkusen,1. Bundesliga,2023/2024,CB,1343.0,81.46153846153847,high
+P030,6832,Rubén Castro Martín,Real Betis,La Liga,2015/2016,FW,3481.0,34.15384615384615,low
+P031,16503,Pedro Henrique Konzen Medina da Silva,Rennes,Ligue 1,2015/2016,W,1233.0,42.15384615384615,low
+P032,7044,Patrik Schick,Bayer Leverkusen,1. Bundesliga,2023/2024,FW,1110.0,42.84615384615385,low
+P033,26023,Juan Francisco García García,Levante UD,La Liga,2015/2016,CB,1562.0,46.23076923076923,mid
+P034,11542,Javier Guerra Rodríguez,Rayo Vallecano,La Liga,2015/2016,FW,2150.0,58.23076923076923,high
+P035,3102,Yann Jouffre,Lorient,Ligue 1,2015/2016,CM,1818.0,59.84615384615385,high
+P036,7775,Emanuele Giaccherini,Bologna,Serie A,2015/2016,W,2243.0,41.53846153846154,low
+P037,11539,Adrián Embarba Blázquez,Rayo Vallecano,La Liga,2015/2016,W,1889.0,48.07692307692308,mid
+P038,3292,Abdoulaye Doucouré,Rennes,Ligue 1,2015/2016,AM,999.0,56.92307692307692,high
+P039,4913,Bojan Krkíc Pérez,Stoke City,Premier League,2015/2016,AM,1741.0,41.92307692307692,low
+P040,26192,Matías Ariel Fernández Fernández,Fiorentina,Serie A,2015/2016,AM,1130.0,45.76923076923077,mid
+P041,3002,Benjamin Nivet,Troyes,Ligue 1,2015/2016,AM,2421.0,45.76923076923077,mid
+P042,3590,Rhu-endly Martina,Southampton,Premier League,2015/2016,FB,1138.0,39.61538461538461,low
+P043,3745,Lucas Rodrigues Moura da Silva,Paris Saint-Germain,Ligue 1,2015/2016,W,2301.0,68.07692307692308,high
+P044,7022,Jesús Joaquín Fernández Sáez de la Torre,Genoa,Serie A,2015/2016,W,1238.0,47.30769230769231,mid
+P045,3254,Florian Thauvin,Olympique de Marseille,Ligue 1,2015/2016,W,979.0,47.23076923076923,mid
+P046,7498,Mickaël Tacalfred,Stade de Reims,Ligue 1,2015/2016,CB,1206.0,51.53846153846154,mid
+P047,3346,Joshua King,AFC Bournemouth,Premier League,2015/2016,FW,1965.0,69.15384615384616,high
+P048,7045,Valter Birsa,Chievo,Serie A,2015/2016,AM,2379.0,48.92307692307692,mid
+P049,401509,David Ducourtioux,Gazélec Ajaccio,Ligue 1,2015/2016,CM,2657.0,38.38461538461539,low
+P050,3456,Kurt Happy Zouma,Chelsea,Premier League,2015/2016,CB,2013.0,39.53846153846154,low
+P051,7415,Jessy Pi,Troyes,Ligue 1,2015/2016,DM,3195.0,60.92307692307692,high
+P052,30704,Gastón Brugman,Palermo,Serie A,2015/2016,DM,1006.0,68.61538461538461,high
+P053,3421,Bryan Dabo,Montpellier,Ligue 1,2015/2016,CM,2942.0,54.15384615384615,mid
+P054,3606,Ander Herrera Agüera,Manchester United,Premier League,2015/2016,AM,1592.0,41.07692307692308,low
+P055,6680,Rubén Rochina Naixes,Granada,La Liga,2015/2016,AM,2538.0,56.76923076923077,high
+P056,4891,Ibrahim Afellay,Stoke City,Premier League,2015/2016,AM,2173.0,37.38461538461539,low
+P057,401512,Lionel Mathis,Guingamp,Ligue 1,2015/2016,DM,1438.0,34.0,low
+P058,6743,Manuel Rolando Iturra Urrutia,Udinese,Serie A,2015/2016,DM,1049.0,44.69230769230769,mid
+P059,6736,Álvaro Medrán Just,Getafe,La Liga,2015/2016,DM,1528.0,54.46153846153846,mid
+P060,22819,Bruno Soriano Llido,Villarreal,La Liga,2015/2016,DM,2693.0,48.76923076923077,mid
+P061,19047,Fábio Alexandre da Silva Coentrão,AS Monaco,Ligue 1,2015/2016,FB,1119.0,65.61538461538461,high
+P062,386509,Adriano Russo,Frosinone,Serie A,2015/2016,CB,912.0,35.76923076923077,low
+P063,9533,Leandro Bacuna,Aston Villa,Premier League,2015/2016,FB,2518.0,52.30769230769231,mid
+P064,19813,Rolando Jorge Pires da Fonseca,Olympique de Marseille,Ligue 1,2015/2016,CB,1694.0,45.15384615384615,mid
+P065,2943,Lucas Deaux,Nantes,Ligue 1,2015/2016,DM,1232.0,40.07692307692308,low
+P066,3293,Jesse Lingard,Manchester United,Premier League,2015/2016,CM,1695.0,46.69230769230769,mid
+P067,3036,Alexis Blin,Toulouse,Ligue 1,2015/2016,DM,1488.0,51.61538461538461,mid
+P068,23850,Mathieu Peybernes,Bastia,Ligue 1,2015/2016,CB,2123.0,27.0,low
+P069,6880,Arnaldo Antonio Sanabria Ayala,Sporting Gijón,La Liga,2015/2016,FW,2298.0,48.23076923076923,mid
+P070,3319,Yacine Bammou,Nantes,Ligue 1,2015/2016,AM,1589.0,40.07692307692308,low
+P071,5685,Carlos Alberto Sánchez Moreno,Aston Villa,Premier League,2015/2016,DM,1431.0,42.92307692307692,low
+P072,3407,Scott Dann,Crystal Palace,Premier League,2015/2016,CB,3293.0,54.0,mid
+P073,3671,José Leonardo Ulloa,Leicester City,Premier League,2015/2016,FW,1078.0,68.07692307692308,high
+P074,3497,Vicente Iborra De La Fuente,Sevilla,La Liga,2015/2016,AM,1778.0,35.15384615384615,low
+P075,3496,Mesut Özil,Arsenal,Premier League,2015/2016,AM,3125.0,53.38461538461539,mid
+P076,6685,Mikel Oyarzabal Ugarte,Real Sociedad,La Liga,2015/2016,W,1552.0,42.84615384615385,low
+P077,20045,Ryan Bertrand,Southampton,Premier League,2015/2016,FB,3015.0,42.38461538461539,low
+P078,3424,Cheikh M''Bengue,Rennes,Ligue 1,2015/2016,FB,1650.0,43.53846153846154,low
+P079,5487,Antoine Griezmann,Atlético Madrid,La Liga,2015/2016,FW,3112.0,74.07692307692308,high
+P080,3043,Christian Dannemann Eriksen,Tottenham Hotspur,Premier League,2015/2016,W,3032.0,63.76923076923077,high
+P081,4346,Gilbert Gianelli Imbula Wanga,Stoke City,Premier League,2015/2016,DM,1316.0,62.61538461538461,high
+P082,401477,Johan Audel,Nantes,Ligue 1,2015/2016,W,1359.0,43.69230769230769,low
+P083,2950,Jonas Martin,Montpellier,Ligue 1,2015/2016,CM,3234.0,47.76923076923077,mid
+P084,23785,Théo Bongonda Mbul''Ofeko Batombo,Celta Vigo,La Liga,2015/2016,W,1235.0,33.53846153846154,low
+P085,5480,Corentin Tolisso,Lyon,Ligue 1,2015/2016,CM,2689.0,65.38461538461539,high
+P086,6659,Víctor Camarasa Ferrando,Levante UD,La Liga,2015/2016,CM,2189.0,48.53846153846154,mid
+P087,3457,Michy Batshuayi Tunga,Olympique de Marseille,Ligue 1,2015/2016,FW,3044.0,46.92307692307692,mid
+P088,31687,Adryan Oliveira Tavares,Nantes,Ligue 1,2015/2016,W,1451.0,55.23076923076923,high
+P089,31721,Matteo Ciofani,Frosinone,Serie A,2015/2016,FB,1337.0,18.76923076923077,low
+P090,4090,Adam David Lallana,Liverpool,Premier League,2015/2016,AM,2180.0,62.61538461538461,high
+P091,3603,Mame Biram Diouf,Stoke City,Premier League,2015/2016,FW,1360.0,39.07692307692308,low
+P092,5474,Ivan Perišić,Inter Milan,Serie A,2015/2016,W,2511.0,49.76923076923077,mid
+P093,26012,David Navarro Pedrós,Levante UD,La Liga,2015/2016,CB,1736.0,29.53846153846154,low
+P094,5727,Nabil Dirar,AS Monaco,Ligue 1,2015/2016,W,1577.0,56.53846153846154,high
+P095,7107,Danilo Cataldi,Lazio,Serie A,2015/2016,DM,1384.0,52.15384615384615,mid
+P096,5461,Šime Vrsaljko,Sassuolo,Serie A,2015/2016,FB,3171.0,56.46153846153846,mid
+P097,5255,Matías Vecino Falero,Fiorentina,Serie A,2015/2016,DM,2487.0,66.23076923076923,high
+P098,3944,Gylfi Þór Sigurðsson,Swansea City,Premier League,2015/2016,AM,3034.0,38.69230769230769,low
+P099,24173,Carlos Castro García,Sporting Gijón,La Liga,2015/2016,FW,1071.0,30.153846153846153,low
+P100,3094,Bamidele Alli,Tottenham Hotspur,Premier League,2015/2016,AM,2529.0,68.6923076923077,high
+P101,6999,Davide Santon,Inter Milan,Serie A,2015/2016,FB,1008.0,44.0,mid
+P102,30512,Aleksandar Trajkovski,Palermo,Serie A,2015/2016,FW,1725.0,54.69230769230769,mid
+P103,3321,Patrick van Aanholt,Sunderland,Premier League,2015/2016,FB,3106.0,60.15384615384615,high
+P104,3567,Georginio Wijnaldum,Newcastle United,Premier League,2015/2016,AM,3293.0,44.15384615384615,mid
+P105,24132,Francisco Miguel Varela Martín,Real Betis,La Liga,2015/2016,FB,953.0,34.53846153846154,low
+P106,9485,Craig Gardner,West Bromwich Albion,Premier League,2015/2016,CM,2133.0,43.15384615384615,low
+P107,7013,Stefano Sturaro,Juventus,Serie A,2015/2016,CM,1067.0,42.30769230769231,low
+P108,30338,André Biyogo Poko,Bordeaux,Ligue 1,2015/2016,FB,1956.0,70.3076923076923,high
+P109,2961,Yann Bodiger,Toulouse,Ligue 1,2015/2016,DM,1137.0,65.0,high
+P110,40724,Florian Wirtz,Bayer Leverkusen,1. Bundesliga,2023/2024,AM,2442.0,78.07692307692308,high
+P111,24263,Ismael López Blanco,Sporting Gijón,La Liga,2015/2016,FB,2579.0,60.38461538461539,high
+P112,2979,Jonathan Delaplace,Stade Malherbe Caen,Ligue 1,2015/2016,CM,1591.0,38.69230769230769,low
+P113,10955,Harry Kane,Tottenham Hotspur,Premier League,2015/2016,FW,3473.0,65.92307692307692,high
+P114,6622,Tomás Pina Isla,Villarreal,La Liga,2015/2016,DM,1696.0,35.69230769230769,low
+P115,20005,Toby Alderweireld,Tottenham Hotspur,Premier League,2015/2016,CB,3558.0,56.92307692307692,mid
+P116,8523,Yevhen Konoplyanka,Sevilla,La Liga,2015/2016,W,1692.0,53.76923076923077,mid
+P117,8443,Dušan Basta,Lazio,Serie A,2015/2016,FB,1891.0,50.38461538461539,mid
+P118,6788,Xabier Etxeita Gorritxategi,Athletic Club,La Liga,2015/2016,CB,2564.0,43.92307692307692,low
+P119,28289,Gastón Alexis Silva Perdomo,Torino,Serie A,2015/2016,FB,923.0,49.76923076923077,mid
+P120,5605,Oscar Hiljemark,Palermo,Serie A,2015/2016,CM,2983.0,35.07692307692308,low
+P121,9649,Jack Colback,Newcastle United,Premier League,2015/2016,DM,2459.0,47.0,mid
+P122,8284,Amadou Diawara,Bologna,Serie A,2015/2016,DM,2839.0,43.0,low
+P123,7141,Giuseppe Rossi,Levante UD,La Liga,2015/2016,FW,1175.0,63.46153846153846,high
+P124,20048,Gregory van der Wiel,Paris Saint-Germain,Ligue 1,2015/2016,FB,1412.0,58.69230769230769,high
+P125,5574,Toni Kroos,Real Madrid,La Liga,2015/2016,DM,2808.0,55.23076923076923,high
+P126,5695,James David Rodríguez Rubio,Real Madrid,La Liga,2015/2016,CM,1556.0,68.38461538461539,high
+P127,6608,Nabil El Zhar,Las Palmas,La Liga,2015/2016,CM,1760.0,40.30769230769231,low
+P128,401470,Fabien Camus,Troyes,Ligue 1,2015/2016,W,2350.0,50.69230769230769,mid
+P129,8852,Thomas Heurtaux,Udinese,Serie A,2015/2016,CB,1115.0,31.53846153846154,low
+P130,12619,Josef Alexander Martínez Mencia,Torino,Serie A,2015/2016,FW,983.0,45.38461538461539,mid
+P131,3673,Yassine Benzia,Lille,Ligue 1,2015/2016,FW,1362.0,59.15384615384615,high
+P132,6352,Ricardo Domingos Barbosa Pereira,OGC Nice,Ligue 1,2015/2016,FB,2366.0,61.76923076923077,high
+P133,40697,Mounir Obbadi,Lille,Ligue 1,2015/2016,CM,2386.0,59.0,high
+P134,4434,Thibault Giresse,Guingamp,Ligue 1,2015/2016,CM,1759.0,37.30769230769231,low
+P135,30255,Mustapha Yatabaré,Montpellier,Ligue 1,2015/2016,FW,1466.0,50.38461538461539,mid
+P136,3196,Wahbi Khazri,Bordeaux,Ligue 1,2015/2016,W,1618.0,63.38461538461539,high
+P137,7476,Emiliano Moretti,Torino,Serie A,2015/2016,CB,3290.0,53.30769230769231,mid
+P138,4669,William Jean Rémy,Montpellier,Ligue 1,2015/2016,DM,2472.0,44.15384615384615,low
+P139,6566,Borja González Tomás,Eibar,La Liga,2015/2016,FW,2642.0,45.38461538461539,mid
+P140,7139,Josip Iličić,Fiorentina,Serie A,2015/2016,AM,1946.0,47.84615384615385,mid
+P141,7160,Lorenzo Tonelli,Empoli,Serie A,2015/2016,CB,2381.0,57.61538461538461,high
+P142,3359,Jean Michaël Seri,OGC Nice,Ligue 1,2015/2016,CM,3184.0,52.84615384615385,mid
+P143,296873,Roberto Crivello,Frosinone,Serie A,2015/2016,FB,1487.0,25.692307692307693,low
+P144,4926,Francisco Román Alarcón Suárez,Real Madrid,La Liga,2015/2016,CM,1870.0,69.07692307692308,high
+P145,352172,Raffaele Bianco,Carpi,Serie A,2015/2016,DM,1924.0,52.07692307692308,mid
+P146,7050,Fabrizio Cacciatore,Chievo,Serie A,2015/2016,FB,2407.0,49.07692307692308,mid
+P147,6661,Ryad Boudebouz,Montpellier,Ligue 1,2015/2016,AM,3340.0,51.15384615384615,mid

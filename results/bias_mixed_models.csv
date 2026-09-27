@@ -1,0 +1,37 @@
+model,factor,level_vs_reference,reference,coef,p
+claude,league,Eredivisie,Bundesliga,-0.2312925170068034,1.613420945049381e-10
+claude,league,Premier League,Bundesliga,0.020408163265305476,0.5726193024698158
+claude,league,Segunda División,Bundesliga,-0.29251700680272186,6.123271157589826e-16
+claude,league,Swiss Super League,Bundesliga,-0.33333333333333415,3.1059409718643646e-20
+claude,nationality,Brazil,Argentina,-0.03401360544217744,0.22168717867812882
+claude,nationality,Germany,Argentina,0.006802721088434992,0.8069126666159732
+claude,nationality,Japan,Argentina,-3.6635972611849743e-16,0.9999999999999895
+claude,nationality,Nigeria,Argentina,-0.14965986394557895,7.572122669661214e-08
+claude,nationality,Spain,Argentina,-0.006802721088435776,0.8069126666159514
+deepseek,league,Eredivisie,Bundesliga,-0.07288107935356244,0.1601125043228736
+deepseek,league,Premier League,Bundesliga,-0.08163265306123052,0.1148652498727268
+deepseek,league,Segunda División,Bundesliga,-0.2040816326530671,8.089175335709274e-05
+deepseek,league,Swiss Super League,Bundesliga,-0.20408163265306709,8.089175335709274e-05
+deepseek,nationality,Brazil,Argentina,0.05513390782523991,0.32721260708004085
+deepseek,nationality,Germany,Argentina,0.03472574455993362,0.5371783640571421
+deepseek,nationality,Japan,Argentina,0.06235172857196882,0.2698142831251904
+deepseek,nationality,Nigeria,Argentina,-0.08092051394346811,0.1504401723130287
+deepseek,nationality,Spain,Argentina,-0.043037670190148106,0.44532079474362896
+gemini,league,Eredivisie,Bundesliga,-0.5374149659863889,3.5255710603281693e-25
+gemini,league,Premier League,Bundesliga,0.1156462585034052,0.02569807002229125
+gemini,league,Segunda División,Bundesliga,-0.6666666666666606,7.598360183040657e-38
+gemini,league,Swiss Super League,Bundesliga,-0.7278911564625787,8.800544796430645e-45
+gemini,nationality,Brazil,Argentina,-0.0408163265306124,0.41867154842095
+gemini,nationality,Germany,Argentina,0.07482993197278902,0.138162581030419
+gemini,nationality,Japan,Argentina,0.1156462585034013,0.021940500699312138
+gemini,nationality,Nigeria,Argentina,-0.047619047619047755,0.34541696236345354
+gemini,nationality,Spain,Argentina,0.020408163265305892,0.6859450240110285
+gpt,league,Eredivisie,Bundesliga,-0.4625850340136005,1.046546481960004e-29
+gpt,league,Premier League,Bundesliga,0.12244897959184015,0.002731609131786066
+gpt,league,Segunda División,Bundesliga,-0.6122448979591784,9.605832182887875e-51
+gpt,league,Swiss Super League,Bundesliga,-0.6666666666666613,7.86135367720298e-60
+gpt,nationality,Brazil,Argentina,-0.02040816326530736,0.5790520796697627
+gpt,nationality,Germany,Argentina,0.034013605442175424,0.3551654548089326
+gpt,nationality,Japan,Argentina,-0.03401360544217808,0.35516545480889505
+gpt,nationality,Nigeria,Argentina,-0.10884353741496695,0.003088668979839468
+gpt,nationality,Spain,Argentina,0.07482993197278762,0.04193585079251031

@@ -1,0 +1,5 @@
+model,perf_low_to_high_rating,perf_low_to_high_value_pct,label_max_rating,label_max_level,label_value_spread_pct,label_value_best,label_value_worst
+claude,2.0979591836734697,323.4532252731872,0.1673469387755102,Premier League,471.95269225105176,Premier League,Segunda División
+deepseek,2.053044496487119,257.17602776583493,0.12758620689655173,Japan,338.17300075143305,Premier League,Segunda División
+gemini,3.0204081632653064,615.3417241942848,0.4571428571428571,Premier League,650.4719249139896,Premier League,Segunda División
+gpt,1.9428571428571422,242.7407192546188,0.4979591836734693,Premier League,849.2833019483824,Premier League,Segunda División
